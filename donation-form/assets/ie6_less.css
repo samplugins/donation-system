@@ -1,0 +1,3 @@
+1	{ behavior: url(iepngfix.htc); }
+
+1 {margin-left: expression(this.previousSibling==null?'0px':'20px');}
