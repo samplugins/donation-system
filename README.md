@@ -49,6 +49,8 @@ Open: php\include\config\config.php
 
 You can use MySQL Manager e.g. PHPMyAdmin
 
+I already included MySQL database, which you need to import.
+
 Donation Form: http://localhost:50/donation-form/
 
 Admin Details: http://localhost:50/donation-form/admin.php
@@ -57,3 +59,5 @@ u: admin
 p: Th3mology
 
 More Script and WordPress Plugins visit: http://samplugins.com
+
+### Please donate, if you like this script: http://samplugins.com/donation/
