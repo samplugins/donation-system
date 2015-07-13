@@ -20,7 +20,7 @@ PHP Payment form with multiple payment gateways support. By default it supports 
 Open: php\include\config\config.php
 
 `$config = array(
-    "site_url"=> "http://localhost:50/cc/donation-form/",  // must ends with slash - Trailing slash must be there
+    "site_url"=> "http://localhost:50/donation-form/",  // must ends with slash - Trailing slash must be there
     "demo_mode"=> true,
     "currency"=> 'USD',
     "database"  => array(
@@ -49,11 +49,11 @@ Open: php\include\config\config.php
 
 You can use MySQL Manager e.g. PHPMyAdmin
 
-Donation Form: http://localhost:50/cc/donation-form/
+Donation Form: http://localhost:50/donation-form/
 
-Admin Details: http://localhost:50/cc/donation-form/admin.php
+Admin Details: http://localhost:50/donation-form/admin.php
 
 u: admin
-p: admin
+p: Th3mology
 
 More Script and WordPress Plugins visit: http://samplugins.com
